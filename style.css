@@ -87,6 +87,10 @@ h2 {
     text-align: center;
 }
 
+.head, h2, p {
+     padding top: 50px
+}
+
 p {
     color: wheat;
     font-weight: bolder;
