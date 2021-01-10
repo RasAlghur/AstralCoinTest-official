@@ -61,6 +61,12 @@
     #navbar__logo {
         padding-left: 25px;
     }
+
+    .menu-bar {
+        margin: 0;
+        padding: 10px;
+        width: 100%;
+    }
 }
 
 
