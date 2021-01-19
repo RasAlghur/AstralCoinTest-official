@@ -1,1 +1,1 @@
-# ZCOINs-official
+# AstralCoin-official
