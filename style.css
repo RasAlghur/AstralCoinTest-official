@@ -73,11 +73,12 @@
 
 
 .main {
-    background-color: #8f4646;
+    background-color: #c4bfbf;
 }
 
 .head {
     text-align: center;
+    Padding-top: 100px
     color: gold;
 }
 
